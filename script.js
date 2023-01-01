@@ -25,7 +25,7 @@ const playerInstance = jwplayer("player").setup({
 
   playlist: [
     {
-      title: "Arrête de me chauffer, Nagatoro  - épisode 1 VOSTFR",
+      title: "Arrête de me chauffer, Nagatoro  - épisode 10 VOSTFR",
       description: "Vous regardez",
       image: "https://cdn.statically.io/gh/Anime-Sama/IMG/img/animes/animes%20wallpapers/ijiranaide-nagatorocarousel.jpg",
       sources: [
@@ -37,7 +37,7 @@ const playerInstance = jwplayer("player").setup({
         },
         {
           file:
-            "",
+            "https://m202.syncusercontent.com/mfs-60:70f6b3467f2cf5ca144378ae4f408285=============================/p/épisode%2010.mp4?allowdd=0&datakey=pHS9cBQjD2OF3bTzL602ChTFXp5B/JuuqZu2lWV7bYAF1OgWCRSgh9Ssnglq1fXCRCGLZTePuLpWqSlkHOIpFYTy5capT0vsLfquBNhmCzj3aHLpvY2mtfyZtgkhBCOsZ94wuSbr9H82SVgZ6XH01JN8jQpjnkQgFjJXmBsjPju1aAvQIhz96jwmsxa2oEPxRBeogz82b/tAAe9ghu/3gwG/kwtv71CYYGc7ALBZBPq9GgfpHYkXcU1i0rPRKLEmxL9yoqX6EPqUW+unPsj0COrg0sZGv6WeZnQgyA4hyJldTvoHwBg+gjVAzGeyo7+tRCqClnu8vipxBg2NcDwvug&engine=ln-2.3.7.3&errurl=JkZtU1layzfxCPCt3285bPzgulqpeE/oeRdk9MCLeL0lM4h6XUAac4fx5zOxj21JRXirkTWx7mvCe8PQsCqWAnFSGmH11W8rs3z/Ce5CnjMEZn38qPBOcDlP4G+9WfP4kklrrrIXtCxu7iAmS5s+ArVbttSSNEh9QmI1FVIivNzlYPUtP5k10orf/hXkgz4vWyz1M4B1n8K2/HafMvHRr9xFBrKBtEgMPlvZrR2eVVqWywv0xxR6xm1hUPY0IK26aetCLhPO3dMLUZypJHjizekeITlTjEf468h+SplpRrA7jxd30cDyWymuy9Prxiy9UoUaFreTxND8KRtz5/YUCA==&header1=Q29udGVudC1UeXBlOiB2aWRlby9tcDQ&header2=Q29udGVudC1EaXNwb3NpdGlvbjogaW5saW5lOyBmaWxlbmFtZT0iJUMzJUE5cGlzb2RlJTIwMTAubXA0IjtmaWxlbmFtZSo9VVRGLTgnJyVDMyVBOXBpc29kZSUyMDEwLm1wNDs&ipaddress=1458994159&linkcachekey=4527df9c0&linkoid=1982890011&mode=101&sharelink_id=9628532230011&timestamp=1672610976246&uagent=220523ca5285197b0fad467e0e72e6907a6c5738&signature=107e8eac84d266f65454338c6a13f294b66f1377&cachekey=60:70f6b3467f2cf5ca144378ae4f408285=============================",
           label: "720p"
         },
         {
